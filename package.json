@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/onlinegrave/imgproxy/issues"
   },
-  "homepage": "https://github.com/onlinegrave/imgproxy#readme"
+  "homepage": "https://github.com/onlinegrave/imgproxy#readme",
+  "dependencies": {
+    "sharp": "^0.31.3"
+  }
 }
